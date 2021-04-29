@@ -1,7 +1,4 @@
-```python
 ![header_image](./images/header_image.png)
-
-```
 
 # Share a file on IPFS
 
